@@ -1,5 +1,4 @@
-# Predicting-Heart-Disease
-Description coming soon
+Predicting the 10-year risk of developing Coronary Heart Disease using Machine Learning algorithms.
 
 Check out the accompanying article here: 
 
